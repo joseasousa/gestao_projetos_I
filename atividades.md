@@ -2,7 +2,7 @@
  
 
 ## Aula 21/11 - PMBOK
-----------------------------------
+-----------------------------------
 1. Criar resumo sobre PMBOK, por que usar, onde usar, onde não usar. 
 
 
@@ -18,3 +18,7 @@
 ---------------------------------------
 
 1. Pesquisar pelo menos 3 ferramentas de gerenciamento de projetos com PMBOK, apontando pontos fortes e pontos fracos, escolha um deles e elabore uma proposta do por que adotá la 
+
+## Aula 12/12 
+----------------------------------------
+1. Criar um projeto e em cima dele aplicamos todas as etapas do PMBOK
