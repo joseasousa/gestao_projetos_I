@@ -22,3 +22,4 @@
 ## Aula 12/12 
 ----------------------------------------
 1. Criar um projeto e em cima dele aplicamos todas as etapas do PMBOK
+2. Aplicar Todas as etapas do gerenciamento de Integracao e Scopo
