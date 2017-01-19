@@ -1,5 +1,7 @@
 # GESTÃO DE PROJETOS I
 
+[Curso CAPM](https://www.udemy.com/draft/278000/learn/v4/overview)
+
 [Atividades](./atividades.md)
 
 [Slide Aula integracao](http://pt.slideshare.net/FredericoAranha/gerenciamento-da-integrao-pmbok-5-edio-pmi)
